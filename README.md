@@ -1,4 +1,4 @@
-# ⚔️ Level Up my mobs
+# ⚔️ Level Up My Mobs
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen?logo=minecraft)
 ![NeoForge](https://img.shields.io/badge/Modloader-NeoForge-orange?logo=neoforge)
@@ -20,7 +20,7 @@ A Minecraft mod for **NeoForge** that makes gameplay more dynamic and challengin
 ## 📥 Installation
 
 1. Download and install [NeoForge](https://neoforged.net/) for your target Minecraft version.
-2. Download the latest release of **Level Up my mobs** from [Modrinth](#) or [CurseForge](#).
+2. Download the latest release of **Level Up My Mobs** from [Modrinth](#) or [CurseForge](#).
 3. Place the downloaded `.jar` file into your `.minecraft/mods` directory.
 4. Launch the game and customize the configuration file as needed!
 
